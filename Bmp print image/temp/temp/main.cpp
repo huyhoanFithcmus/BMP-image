@@ -6,7 +6,7 @@
 
 using namespace std;
 
-#define BMP_SOURCE		"vlinh.bmp"
+#define BMP_SOURCE		"lenna.bmp"
 
 void changeBmp(PixelArray& p)
 {
